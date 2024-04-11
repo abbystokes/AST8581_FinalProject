@@ -18,14 +18,17 @@ Use oversampling method to increase prevalence of SNIb in dataset for training (
 Week 2:
 Split into test, validation, and training datasets (Jacynda)
 Using SVM, MLP, and RF, build classifier to identify SNIb from other supernova types
+
 Logistic Regression (Jacynda)
 - Build Classifier
 - Use cross validation to tune model hyperparameters (# estimators, max tree length, etc.) 
 - Evaluate model performance using accuracy, precision, recall, F1 score, confusion matrix, and ROC curves/AUC (one v. one or one v. all).
+  
 Support Vector Machine (Abby)
 - Build Classifier
 - Use cross validation to tune model hyperparameters (# estimators, max tree length, etc.) 
 - Evaluate model performance using accuracy, precision, recall, F1 score, confusion matrix, and ROC curves/AUC (one v. one or one v. all).
+  
 Random Forest (Lexi)
 - Build Classifier
 - Use cross validation to tune model hyperparameters (# estimators, max tree length, etc.) 
